@@ -1,2 +1,3 @@
 # Python-based-quiz
-python based quiz that saves result to files with seperate files
+>Python based quiz that saves result to files with separate files.
+>Change the two lists in the class to change the questions.
